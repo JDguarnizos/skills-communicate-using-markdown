@@ -1,6 +1,9 @@
 # Hola muchachos, esto es un encabezado `<h1>`.
 ## Y este sería un encabezado `<h2>`
 Entonces este sería un trozo de código que debería escribir, este lo saqué de algo que tenia que hacer en java: 
+- [x] Hacer la lista de tareas en github.
+- [ ] Terminar los demás cursos que debo al profe.
+- [ ] ...
 ```
 public static void main(String[] args) { 
 
